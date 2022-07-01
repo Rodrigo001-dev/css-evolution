@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "^0.1.6",
     "@stitches/react": "^1.2.8",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
