@@ -15,11 +15,14 @@ O Styled-Components é uma ferramenta para escrever CSS dentro do React, foi uma
 
 Há 2 anos começou a surgir uma ferramenta chamada Stitches, essa ferramenta resolve os mesmos problemas que o Styled-Components porém ele resolve alguns problemas a mais na parte de manutenibilidade do código, ou seja, o Stitches ajuda muito a trabalhar com componentes que podem ter muitas modificações de estilização baseado em propriedades, baseado em variantes.
 
+Outra ferramenta muito interessante é o tailwind, nessa ferramenta o CSS é escrito através de propriedades dos componentes dentro do React, ou seja, é como se o CSS fosse escrito de forma declarativa, básicamente é "sujar" o HTML com instruções de estilização
+
 ## 🚀 Tecnologias/Bibliotecas utilizadas
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
 <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=React&logoColor=white" alt="ReactJS"> </a>
 <a href="https://stitches.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Stitches-32265e?style=flat-square&logo=Stitches&logoColor=white" alt="Stitches"> </a>
+<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-tailwind-0EA5E9?style=flat-square&logo=tailwindui&logoColor=white" alt="Tailwind"> </a>
 
 ## 💻 Autor
 
