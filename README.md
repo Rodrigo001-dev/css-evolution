@@ -22,7 +22,7 @@ Outra ferramenta muito interessante é o tailwind, nessa ferramenta o CSS é esc
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
 <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=React&logoColor=white" alt="ReactJS"> </a>
 <a href="https://stitches.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Stitches-32265e?style=flat-square&logo=Stitches&logoColor=white" alt="Stitches"> </a>
-<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-tailwind-0EA5E9?style=flat-square&logo=tailwindui&logoColor=white" alt="Tailwind"> </a>
+<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> </a>
 <a href="https://www.radix-ui.com/" target="_blank"> <img src="https://img.shields.io/badge/-RadixUI-9f8dfc?style=flat-square&logo=radix&logoColor=white" alt="radix-ui"> </a>
 
 ## 💻 Autor
